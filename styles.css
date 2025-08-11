@@ -1,0 +1,4 @@
+:root{}
+.pill{ @apply px-3 py-1.5 rounded-full bg-white/70 dark:bg-white/5 border border-white/40 dark:border-white/10 hover:shadow transition;}
+/* Subtle glass blur & focus states */
+input:focus, button:focus { outline: 2px solid rgba(16,185,129,.4); outline-offset: 2px; }
