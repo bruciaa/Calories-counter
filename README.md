@@ -32,7 +32,7 @@
 
 ## 🚀 Live Demo
 You can try it instantly on **Vercel**:  
-🔗 [https://calories-counter.vercel.app](https://calories-counter.vercel.app)
+🔗 [[https://calories-counter-theta-gules.vercel.app/](https://calories-counter-theta-gules.vercel.app/)]
 
 ---
 
